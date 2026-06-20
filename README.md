@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project predicts house prices using Machine Learning techniques. The dataset contains information about house features such as area, number of bedrooms, bathrooms, stories, parking, and furnishing status.
+
 The objective of this project is to build predictive models and identify the factors that most strongly influence house prices.
 
 ## Dataset
